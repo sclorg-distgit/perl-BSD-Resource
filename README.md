@@ -1,0 +1,1 @@
+# perl-BSD-Resource
